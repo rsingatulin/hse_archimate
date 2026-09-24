@@ -5,14 +5,14 @@
     id="id-e3119726cf4c4f40bed0a2c3b1a83b94">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-d3263c0d341c4cc1afe08ebf9d03efb3">
+      id="id-1aecce86ccff415c9f2b6abef32c6abc">
     <bounds
-        x="265"
-        y="175"
+        x="382"
+        y="252"
         width="120"
         height="55"/>
     <archimateElement
-        xsi:type="archimate:BusinessProcess"
-        href="BusinessProcess_id-72d79b0fbbc94eaaa1678177cab33483.xml#id-72d79b0fbbc94eaaa1678177cab33483"/>
+        xsi:type="archimate:BusinessRole"
+        href="BusinessRole_id-94ac174c659c4db1a46f0b8a687ed6c1.xml#id-94ac174c659c4db1a46f0b8a687ed6c1"/>
   </children>
 </archimate:ArchimateDiagramModel>
