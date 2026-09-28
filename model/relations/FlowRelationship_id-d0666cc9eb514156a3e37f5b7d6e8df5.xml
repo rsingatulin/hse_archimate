@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="задания на комплектацию"
+    id="id-d0666cc9eb514156a3e37f5b7d6e8df5">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-a4aa68f6e0424248ac696749ebe1555a.xml#id-a4aa68f6e0424248ac696749ebe1555a"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-a661d3e5f7514a48b499b13af1fba1e0.xml#id-a661d3e5f7514a48b499b13af1fba1e0"/>
+</archimate:FlowRelationship>

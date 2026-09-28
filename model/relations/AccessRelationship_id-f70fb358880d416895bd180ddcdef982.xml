@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="хранит"
+    id="id-f70fb358880d416895bd180ddcdef982">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-e62d2896b32d4835a2ea43ef18d7f9bf.xml#id-e62d2896b32d4835a2ea43ef18d7f9bf"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-87d6181507a94026ab738f54a7e89037.xml#id-87d6181507a94026ab738f54a7e89037"/>
+</archimate:AccessRelationship>

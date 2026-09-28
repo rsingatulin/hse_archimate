@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="сохраняет покупку"
+    id="id-3e3ca230de5047a3a985c49c56320207">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-e62d2896b32d4835a2ea43ef18d7f9bf.xml#id-e62d2896b32d4835a2ea43ef18d7f9bf"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-71a9de31dc4f477a812cf96e4a0b8e62.xml#id-71a9de31dc4f477a812cf96e4a0b8e62"/>
+</archimate:ServingRelationship>
