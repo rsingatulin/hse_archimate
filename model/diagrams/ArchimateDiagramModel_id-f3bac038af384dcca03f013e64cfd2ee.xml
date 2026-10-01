@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="BP-04 Интернет-продажи As-Is"
+    name="Архитектура компании RetailMax"
     id="id-f3bac038af384dcca03f013e64cfd2ee">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
