@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Передает данные лояльности"
+    id="id-12e26841048e430fb95f266e32caf5f3">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-e62d2896b32d4835a2ea43ef18d7f9bf.xml#id-e62d2896b32d4835a2ea43ef18d7f9bf"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-fecfabfb6ede45c9905da15bbb8dcabf.xml#id-fecfabfb6ede45c9905da15bbb8dcabf"/>
+</archimate:ServingRelationship>

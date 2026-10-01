@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Передает мастер-данные"
+    id="id-d5f5a8ce32d84175927c21c7b1231ca5">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-6b43b65175b3469a8a65aedb7c2c51f9.xml#id-6b43b65175b3469a8a65aedb7c2c51f9"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-fecfabfb6ede45c9905da15bbb8dcabf.xml#id-fecfabfb6ede45c9905da15bbb8dcabf"/>
+</archimate:ServingRelationship>
